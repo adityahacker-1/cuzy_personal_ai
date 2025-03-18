@@ -4,7 +4,7 @@ import webbrowser
 import datetime
 from openai import OpenAI
 
-api_key = "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"
+api_key = ""
 chatStr = ""
 def chat(query):
     global chatStr
